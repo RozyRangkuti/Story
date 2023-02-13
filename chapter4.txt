@@ -1,0 +1,2 @@
+today I'm learning about git and GitHub, I hope I can understand this lesson so well so I will
+become a full-stack developer.
